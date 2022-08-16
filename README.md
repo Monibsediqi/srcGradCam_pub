@@ -1,5 +1,5 @@
 # Overview
-* Abnormality detection in chest x-ray imags using deep learning
+Abnormality detection in chest x-ray imags using deep learning
 
 
 For more detials contact: 
@@ -7,6 +7,11 @@ Monib Sediqi (monib.korea@gmail.com)
 
 [[Home]](http://monibsediqi.github.io) 
 
+# Flow Diagram
+
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/42628945/184998200-40221f8c-f225-436c-87c1-3aa6de9c6a9e.jpg" width=1000)
+</p>  
 
 # Code Desc
 
@@ -25,12 +30,6 @@ Monib Sediqi (monib.korea@gmail.com)
 * Outputs:
     1. Probability score
     2. PNG image with CAM
-
-* Network: XceptionNet
-
-<p align='center'>
-  <img src="https://user-images.githubusercontent.com/42628945/184998200-40221f8c-f225-436c-87c1-3aa6de9c6a9e.jpg" width=1000)
-</p>  
 
 
 ### Data Augmentation
