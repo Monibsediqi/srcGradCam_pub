@@ -2,7 +2,7 @@
 Abnormality detection in chest x-ray imags using deep learning
 
 
-For more detials contact: 
+For more details contact: 
 Monib Sediqi (monib.korea@gmail.com)
 
 [[Home]](http://monibsediqi.github.io) 
