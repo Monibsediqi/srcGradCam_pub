@@ -83,4 +83,15 @@ Tension pneumothorax| Abnormal |![](Assets/ten/orig/148_res.jpg)| ![](Assets/ten
 |Pericardial effusion| Abnormal |![](Assets/peri/orig/399_res.jpg)| ![](Assets/peri/abnorm/Serial_No399.jpg) |
 
 
+### Citation
+```
+  @misc{Monib Sediqi Grad-CAM,
+    author = {Monib Sediqi},
+    title = {Class Activation Map (CAM) Tensorflow},
+    year = {2022},
+    howpublished = {\url{https://github.com/Monibsediqi/srcGradCam_pub},
+  }
+```
 
+## License
+Copyright (c) 2022 Monib Sediqi. Contact me (monib.korea@gmail.com) for commercial use (or rather any use that is not academic research). Free for academic research use only, as long as proper attribution is given and this copyright notice is retained.
